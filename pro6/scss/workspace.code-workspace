@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "pro6",
+			"path": ".."
+		},
+		{
+			"name": "fonts",
+			"path": "..\\..\\..\\..\\..\\Downloads\\Compressed\\06_JavaScript_Masoumi\\4\\fonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pro6"
+	}
+}
