@@ -1,0 +1,12 @@
+{
+  "name": "pro8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mywatch": "node-sass -o css scss/style.scss"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
